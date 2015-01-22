@@ -1,0 +1,10 @@
+D:\DESARROLLO\Peliculas\PeliculasWinForm\PeliculasWinForm\bin\Debug\PeliculasWinForm.exe.config
+D:\DESARROLLO\Peliculas\PeliculasWinForm\PeliculasWinForm\bin\Debug\PeliculasWinForm.exe
+D:\DESARROLLO\Peliculas\PeliculasWinForm\PeliculasWinForm\bin\Debug\PeliculasWinForm.pdb
+D:\DESARROLLO\Peliculas\PeliculasWinForm\PeliculasWinForm\obj\Debug\PeliculasWinForm.csprojResolveAssemblyReference.cache
+D:\DESARROLLO\Peliculas\PeliculasWinForm\PeliculasWinForm\obj\Debug\PeliculasWinForm.Form1.resources
+D:\DESARROLLO\Peliculas\PeliculasWinForm\PeliculasWinForm\obj\Debug\PeliculasWinForm.Properties.Resources.resources
+D:\DESARROLLO\Peliculas\PeliculasWinForm\PeliculasWinForm\obj\Debug\PeliculasWinForm.csproj.GenerateResource.Cache
+D:\DESARROLLO\Peliculas\PeliculasWinForm\PeliculasWinForm\obj\Debug\PeliculasWinForm.exe
+D:\DESARROLLO\Peliculas\PeliculasWinForm\PeliculasWinForm\obj\Debug\PeliculasWinForm.pdb
+D:\DESARROLLO\Peliculas\PeliculasWinForm\PeliculasWinForm\obj\Debug\PeliculasWinForm.Form2.resources
